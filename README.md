@@ -1,5 +1,6 @@
 <h2>🚀 Guía de inicio rápido</h2>
 <p>Esta guía te ayudará a configurar y ejecutar un programa en Python para enviar mensajes a través de WhatsApp utilizando una API. Ideal para notificaciones automáticas, marketing, o cualquier otro caso de uso que requiera comunicación directa.</p>
+<p> Debes tener en cuenta que lo primero que tienes que hacer es configurar tu cuenta y permisos de  facebook.business  https://business.facebook.com</p>
 
 <h3>🔧 Pre-requisitos</h3>
 <ul>
