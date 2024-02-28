@@ -2,7 +2,7 @@ import pandas as pd
 import requests
 
 # Configura tus credenciales y URL de la API de WhatsApp aquí
-WHATSAPP_API_URL = "https://graph.facebook.com/v12.0/201848473684/messages" #here you change your link for the link tht whatsapp bring you
+WHATSAPP_API_URL = "https://graph.facebook.com/v12.0/201848473684/messages" #here you change your link for the link that whatsapp bring you
 TOKEN = "here you put the key"
 #Envía un mensaje a través de WhatsApp utilizando una plantilla predefinida.
 def enviar_mensaje_plantilla_whatsapp(telefono, plantilla_nombre):
